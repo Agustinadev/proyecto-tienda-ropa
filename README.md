@@ -6,4 +6,7 @@
 
 ### The "normal" users can only edit their profile and log out while the "administrator" type has the additional ability to manage the products, they can add, delete or edit them.
 
-### The website also uses the javascript pushbar library to make the menu pop out on the left with an animation. 
+### The website also uses the javascript pushbar library to make the menu pop out on the left with an animation.
+
+
+![Form]("C:\Users\Usuario\Pictures\formregistro.PNG")
