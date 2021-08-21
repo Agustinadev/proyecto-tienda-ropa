@@ -9,4 +9,4 @@
 ### The website also uses the javascript pushbar library to make the menu pop out on the left with an animation.
 
 
-![Form]("C:\Users\Usuario\Pictures\formregistro.PNG")
+![Form](img-github/formregistro.PNG)
